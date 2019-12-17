@@ -12,7 +12,8 @@
 * Ketik t untuk menambahkan data kemudian masukkan data seperti Nama, Nin, Nilai tugas, UAS, UTS
 <img width="472" alt="2" src="https://user-images.githubusercontent.com/57063216/71015232-d2101f80-2125-11ea-9585-82a46552dfe3.PNG">
 * Adapun kondisi yang digunakan untuk melakukan input data, yaitu :
-<img width="472" alt="2" src="https://user-images.githubusercontent.com/57063216/71015232-d2101f80-2125-11ea-9585-82a46552dfe3.PNG">
+<img width="468" alt="tambah" src="https://user-images.githubusercontent.com/57063216/71016445-bad23180-2127-11ea-81f8-cc0996cc8001.PNG">
+
 
 
 
