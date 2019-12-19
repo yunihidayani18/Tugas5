@@ -5,7 +5,7 @@
 * Dictionary adalah tipe data yang anggotanya terdiri dari pasangan kunci:nilai (key:value). Dictionary bersifat tidak berurut sehingga anggotanya tidak memiliki indeks. Dictionary dibuat dengan menempatkan anggotanya di dalam tanda kurung kurawal {}, dan dipisahkan oleh tanda koma.
 * Gunakan perulangan while True (perulangan yang tak terhitung), yaitu perulangan yang dilakukan selama nilai kondisi TRUE.
 * Gunakan kondisi if else untuk menentukan tindakan apa yang akan diambil/dijalankan. Dan break untuk menghentikan perulangan yang berlangsung terus menerus.
-* 2. Tampilkan menu pilihan(Tambah data, ubah data, hapus data, tampilkan data, dan cari data)
+* 2. Tampilkan menu pilihan(Tambah data, ubah data, hapus data, tampilkan data, dan cari data).
 * <img width="459" alt="input" src="https://user-images.githubusercontent.com/57063216/71014380-6f6a5400-2124-11ea-8dd3-17dc1b7ad995.PNG">
 * maka seperti ini:
 <img width="486" alt="1" src="https://user-images.githubusercontent.com/57063216/71014568-b6f0e000-2124-11ea-92e2-6583b89acc94.PNG">
@@ -14,7 +14,7 @@
 * Adapun kondisi yang digunakan untuk melakukan input data, yaitu :
 <img width="468" alt="tambah" src="https://user-images.githubusercontent.com/57063216/71016445-bad23180-2127-11ea-81f8-cc0996cc8001.PNG"> Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
 * Selanjutnya tampilkan data yang telah diinput :
-Ketik l untuk menampilkan data yang telah dibuat
+Ketik l untuk menampilkan data yang telah dibuat.
 <img width="429" alt="3" src="https://user-images.githubusercontent.com/57063216/71177057-af087b80-229d-11ea-882d-c45b546db89b.PNG">
 Perintah yang digunakan untuk menampilkan data :
 <img width="535" alt="lihat" src="https://user-images.githubusercontent.com/57063216/71177277-3fdf5700-229e-11ea-9f66-f0745d8b0372.PNG">
