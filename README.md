@@ -13,7 +13,7 @@
 <img width="472" alt="2" src="https://user-images.githubusercontent.com/57063216/71015232-d2101f80-2125-11ea-9585-82a46552dfe3.PNG">
 * Adapun kondisi yang digunakan untuk melakukan input data, yaitu :
 <img width="468" alt="tambah" src="https://user-images.githubusercontent.com/57063216/71016445-bad23180-2127-11ea-81f8-cc0996cc8001.PNG">
-*Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%).
+* Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%).
 * Selanjutnya tampilkan data yang telah diinput :
 Ketik l untuk menampilkan data yang telah dibuat.
 <img width="429" alt="3" src="https://user-images.githubusercontent.com/57063216/71177057-af087b80-229d-11ea-882d-c45b546db89b.PNG">
