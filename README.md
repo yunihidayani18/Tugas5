@@ -27,6 +27,17 @@
 * <img width="481" alt="cari" src="https://user-images.githubusercontent.com/57063216/71418154-9b915200-269b-11ea-91ec-e58703949f13.PNG">
 * Ketik c untuk mencari
 <img width="397" alt="4" src="https://user-images.githubusercontent.com/57063216/71417612-dba30580-2698-11ea-8fe9-ec91697a0d3e.PNG">
+* Dan untuk menghapus data ketik h
+<img width="436" alt="6" src="https://user-images.githubusercontent.com/57063216/71418295-62a5ad00-269c-11ea-9514-ebf23dc07315.PNG">
+Maka data pun terhapus
+* Perintahnya sebagai berikut
+<img width="347" alt="hapus" src="https://user-images.githubusercontent.com/57063216/71418402-e495d600-269c-11ea-9c0c-bc47f6578caf.PNG">
+* Terakhir, untuk menyelesaikan program ketik k , maka program akan keluar
+<img width="458" alt="7" src="https://user-images.githubusercontent.com/57063216/71418583-c41a4b80-269d-11ea-8496-f773bbd7f364.PNG">
+* Caranya yaitu gunakan perintah berikut
+<img width="458" alt="7" src="https://user-images.githubusercontent.com/57063216/71418609-e9a75500-269d-11ea-97d3-d8dfbb5cb1f1.PNG">
+
+
 
 
 
