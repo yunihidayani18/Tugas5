@@ -23,6 +23,15 @@
 * <img width="408" alt="ubah" src="https://user-images.githubusercontent.com/57063216/71417602-d0e87080-2698-11ea-977e-437486623e7f.PNG">
 * Ketik u untuk mengubah
 * <img width="466" alt="5" src="https://user-images.githubusercontent.com/57063216/71417727-726fc200-2699-11ea-99c7-8466ca85df85.PNG">
+* Selanjutnya Mencari data. Caranya
+* <img width="481" alt="cari" src="https://user-images.githubusercontent.com/57063216/71418154-9b915200-269b-11ea-91ec-e58703949f13.PNG">
+* Ketik c untuk mencari
+<img width="397" alt="4" src="https://user-images.githubusercontent.com/57063216/71417612-dba30580-2698-11ea-8fe9-ec91697a0d3e.PNG">
+
+
+
+
+
 
 
 
