@@ -32,10 +32,11 @@
 Maka data pun terhapus
 * Perintahnya sebagai berikut
 <img width="347" alt="hapus" src="https://user-images.githubusercontent.com/57063216/71418402-e495d600-269c-11ea-9c0c-bc47f6578caf.PNG">
-* Terakhir, untuk menyelesaikan program ketik k , maka program akan keluar
+* Terakhir, untuk keluar dari program ketik k , maka program akan keluar dan terselesaikan
 <img width="458" alt="7" src="https://user-images.githubusercontent.com/57063216/71418583-c41a4b80-269d-11ea-8496-f773bbd7f364.PNG">
 * Caranya yaitu gunakan perintah berikut
-<img width="458" alt="7" src="https://user-images.githubusercontent.com/57063216/71418609-e9a75500-269d-11ea-97d3-d8dfbb5cb1f1.PNG">
+<img width="158" alt="keluar" src="https://user-images.githubusercontent.com/57063216/71418717-85d15c00-269e-11ea-99e1-a75ddf20a023.PNG">
+# Program Selesai !
 
 
 
